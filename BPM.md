@@ -11,4 +11,11 @@ BPM  Process
 
 4)Creating and adjusting electronic workflows to match the improved process maps.
 
+## İş süreci otomasyonu (BPA)
+– teknoloji bileşenleri manuel süreci tamamlamak veya değiştirmek için kullanılır.
 
+## İş süreci iyileştirme (BPI)
+– iş akışlarını iyileştirmek için yeni, yeniden tasarlanmış süreçler oluşturma ve/veya yeni süreç yapılarını etkinleştiren yeni teknolojileri kullanma.
+
+## İş süreci yeniden mühendisliği (BPR)
+– kuruluşun faaliyet gösterdiği temel yolu değiştirme.
